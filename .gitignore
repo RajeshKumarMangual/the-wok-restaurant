@@ -1,0 +1,24 @@
+# Python
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Django
+staticfiles/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
