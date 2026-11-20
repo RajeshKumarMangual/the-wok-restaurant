@@ -65,6 +65,7 @@ ROOT_URLCONF = 'server.urls'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://the-wok-restaurants.onrender.com",
 ]
 
 TEMPLATES = [
